@@ -1,0 +1,16 @@
+H:\Workspace\ValidadorSenhas\bin\Debug\net5.0\ValidadorSenhas.exe
+H:\Workspace\ValidadorSenhas\bin\Debug\net5.0\ValidadorSenhas.deps.json
+H:\Workspace\ValidadorSenhas\bin\Debug\net5.0\ValidadorSenhas.runtimeconfig.json
+H:\Workspace\ValidadorSenhas\bin\Debug\net5.0\ValidadorSenhas.runtimeconfig.dev.json
+H:\Workspace\ValidadorSenhas\bin\Debug\net5.0\ValidadorSenhas.dll
+H:\Workspace\ValidadorSenhas\bin\Debug\net5.0\ref\ValidadorSenhas.dll
+H:\Workspace\ValidadorSenhas\bin\Debug\net5.0\ValidadorSenhas.pdb
+H:\Workspace\ValidadorSenhas\obj\Debug\net5.0\ValidadorSenhas.csprojAssemblyReference.cache
+H:\Workspace\ValidadorSenhas\obj\Debug\net5.0\ValidadorSenhas.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\ValidadorSenhas\obj\Debug\net5.0\ValidadorSenhas.AssemblyInfoInputs.cache
+H:\Workspace\ValidadorSenhas\obj\Debug\net5.0\ValidadorSenhas.AssemblyInfo.cs
+H:\Workspace\ValidadorSenhas\obj\Debug\net5.0\ValidadorSenhas.csproj.CoreCompileInputs.cache
+H:\Workspace\ValidadorSenhas\obj\Debug\net5.0\ValidadorSenhas.dll
+H:\Workspace\ValidadorSenhas\obj\Debug\net5.0\ref\ValidadorSenhas.dll
+H:\Workspace\ValidadorSenhas\obj\Debug\net5.0\ValidadorSenhas.pdb
+H:\Workspace\ValidadorSenhas\obj\Debug\net5.0\ValidadorSenhas.genruntimeconfig.cache
